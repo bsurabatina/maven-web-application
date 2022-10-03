@@ -99,13 +99,13 @@
 	    <repository>
 	      <id>nexus</id>
 	      <name>Mithun Technologies Releases Nexus Repository</name>
-	      <url>http://54.172.122.10:8081/repository/sisbig-release//</url>
+	      <url>http://3.93.167.83:8081/repository/jenkis-project-release//</url>
 	    </repository>
 	    
 	    <snapshotRepository>
 	      <id>nexus</id>
 	      <name>Mithun Technologies Snapshot Nexus Repository </name>
-	      <url>http://54.172.122.10:8081/repository/sisbig-snapshot//</url>
+	      <url>http://3.93.167.83:8081/repository/jenkis-project-release//</url>
 	    </snapshotRepository>
 	    
 	</distributionManagement>
